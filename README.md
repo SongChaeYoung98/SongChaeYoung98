@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![SongChaeYoung98's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongChaeYoung98&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongChaeYoung98&layout=compact&theme=merko)
+
+
+
 <!--
 **SongChaeYoung98/SongChaeYoung98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
