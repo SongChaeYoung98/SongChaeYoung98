@@ -1,6 +1,6 @@
 수정 중
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&text=Precision%20in%20every%20line.&animation=twinkling&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=Precision%20in%20every%20line.&animation=twinkling&fontColor=ffffff&fontSize=65" />
     </div>
 
     
