@@ -1,7 +1,7 @@
 수정 중
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Precision%20in%20every%20line.&animation=fadeIn&fontColor=FFFFFF&fontSize=65&stroke=3A3A3A&strokeWidth=0.8" /><br> <br> <br> 
+    <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Precision%20in%20every%20line.&animation=fadeIn&fontColor=FFFFFF&fontSize=60&stroke=3A3A3A&strokeWidth=0.8" /><br> <br> <br> 
     </div>
     
 <div align= "center">
