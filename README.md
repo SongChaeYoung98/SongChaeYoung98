@@ -1,10 +1,9 @@
 수정 중
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&text=Precision%20in%20every%20line.&animation=twinkling&fontColor=ffffff&fontSize=60" />
+    </div>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-[![box](https://markdown-box-generator.vercel.app/api/box?title=SongChaeYoung98&author=0.0yeriel@gmail.com&style=insta)](https://github.com/jongeuni/markdown-box-generator)
-
-
+    
 <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white">
@@ -26,3 +25,13 @@
           <img src="https://img.shields.io/badge/Zeplin-fdbd39?style=flat&logo=Zeplin&logoColor=white">
           </div>
     </div>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+[![box](https://markdown-box-generator.vercel.app/api/box?title=SongChaeYoung98&author=0.0yeriel@gmail.com&style=insta)](https://github.com/jongeuni/markdown-box-generator)
+
+
+
+
+
+
