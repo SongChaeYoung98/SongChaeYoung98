@@ -28,7 +28,7 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-[![box](https://markdown-box-generator.vercel.app/api/box?title=SongChaeYoung98&author=0.0yeriel@gmail.com&style=insta)](https://github.com/jongeuni/markdown-box-generator)
+[![box](https://markdown-box-generator.vercel.app/api/box?title=SongChaeYoung98&author=0.0yeriel@gmail.com&style=default)](https://github.com/jongeuni/markdown-box-generator)
 
 
 
