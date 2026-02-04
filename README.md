@@ -1,8 +1,4 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Precision%20in%20every%20line.&animation=fadeIn&fontColor=FFFFFF&fontSize=60&stroke=3A3A3A&strokeWidth=0.8" /><br> <br> <br> 
-    </div>
-    
-<div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
           <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white">
